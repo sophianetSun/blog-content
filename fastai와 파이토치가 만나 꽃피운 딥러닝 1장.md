@@ -1,7 +1,7 @@
 Date: 2024-04-12
 Tag: moment
     dayjs
-Status: temp
+Status: pub
 
 # 다시 1장으로
 
